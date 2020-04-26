@@ -14,4 +14,9 @@ body {
 
 .margin {
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #58faf4;
 }
